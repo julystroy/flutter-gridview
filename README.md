@@ -1,6 +1,7 @@
 # flutter_demo_master
 
-A new Flutter application.
+A new Flutter to show GridView .
+具体的效果参见 https://blog.csdn.net/julystroy/article/details/95504602
 
 ## Getting Started
 
